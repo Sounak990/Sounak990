@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Solutions with Code | Web Developer | A Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://your-repository-link/path-to-your-gif.gif" alt="coding GIF" width="400" height="200"/>
+  <img src="https://github.com/Sounak990/Sounak990/blob/main/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="coding GIF" width="400" height="200"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sounak990&label=Profile%20views&color=0e75b6&style=flat" alt="sounak990" /> </p>
 
